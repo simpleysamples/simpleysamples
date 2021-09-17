@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @simpleysamples
+- 👀 I’m interested in learning and sharing code samples that helped me learn
+- 🌱 I’m currently learning how about backend deployments on AWS
